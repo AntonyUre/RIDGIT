@@ -1,0 +1,1424 @@
+Uri: https://www.mywsalas.com.pe/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index.htm
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/css/styles.css
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\css\styles.css
+Content Type: text/css
+
+Uri: https://www.mywsalas.com.pe/css/side_menu.css
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\css\side_menu.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,400italic,700,500italic,700italic,900,900italic
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\css.css
+Content Type: text/css
+
+Uri: https://www.mywsalas.com.pe/index.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/nosotros.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\nosotros.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/marcas.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\marcas.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/productos.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\productos.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/ingersoll_rand.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ingersoll_rand.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/master_pneumatic.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\master_pneumatic.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/makita.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\makita.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/klein_tools.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\klein_tools.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/foster.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\foster.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/jd_neuhaus.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\jd_neuhaus.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/jensen.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\jensen.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/ridgid.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ridgid.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/bva.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\bva.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/armstrong.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\armstrong.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/ampco.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ampco.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/proto.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\proto.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/ozat.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ozat.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/cdi.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\cdi.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/greenlee.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\greenlee.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/mammut.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\mammut.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/stanley.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\stanley.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/torcup.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\torcup.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/wiha.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\wiha.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/wilton.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\wilton.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/jet.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\jet.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/huck.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\huck.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/servicios.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\servicios.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/terminos_condiciones.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\terminos_condiciones.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/contacto.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\contacto.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/MyWSalas/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\MyWSalas\index.htm
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send?phone=51998192072
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\send.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/js/jquery-3.1.1.js
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\js\jquery-3.1.1.js
+Content Type: application/javascript
+
+Uri: https://www.mywsalas.com.pe/js/jquery.mmenu.js
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\js\jquery.mmenu.js
+Content Type: application/javascript
+
+Uri: https://www.mywsalas.com.pe/js/menu.js
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\js\menu.js
+Content Type: application/javascript
+
+Uri: https://www.mywsalas.com.pe/js/jquery.cycle.all.js
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\js\jquery.cycle.all.js
+Content Type: application/javascript
+
+Uri: https://www.mywsalas.com.pe/js/slider.js
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\js\slider.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-KB4SSC3
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ns.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/logo.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logo.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/bicon1.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\bicon1.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/flecha.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\flecha.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/bicon2.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\bicon2.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/bicon3.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\bicon3.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/bicon4.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\bicon4.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/bicon5.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\bicon5.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/bicon6.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\bicon6.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/bicon7.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\bicon7.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/home1.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\home1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/home2.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\home2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/home3.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\home3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/home4.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\home4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/home5.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\home5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/home6.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\home6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/home7.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\home7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/taladro_angular.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\taladro_angular.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/rana_para_tensar_cables.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\rana_para_tensar_cables.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/juego_de_llaves_mixtas.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\juego_de_llaves_mixtas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/winche_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\winche_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/juego_de_tarrajas manual.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\juego_de_tarrajas manual.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/juego_llaves_mixtas_tipo_ratchet.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\juego_llaves_mixtas_tipo_ratchet.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/clavadora_neumatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\clavadora_neumatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/juego_dados_accesorios_aislados_1000V.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\juego_dados_accesorios_aislados_1000V.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/home8.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\home8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-M8ZQSMZ
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ns-1.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/btn_whatsapp.png
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\btn_whatsapp.png
+Content Type: image/png
+
+Uri: https://www.mywsalas.com.pe/images/boton_menu.png
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\boton_menu.png
+Content Type: image/png
+
+Uri: https://www.mywsalas.com.pe/images/close.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\close.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/previous.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\previous.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/next.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\next.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/mas.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\mas.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/more.png
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\more.png
+Content Type: image/png
+
+Uri: https://www.mywsalas.com.pe/images/todos.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\todos.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/nosotros_top.png
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\nosotros_top.png
+Content Type: image/png
+
+Uri: https://www.mywsalas.com.pe/images/nosotros1.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\nosotros1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/nosotros2.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\nosotros2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/back_rojo.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\back_rojo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/nosotros3.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\nosotros3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/visitar.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\visitar.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/regresar.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\regresar.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/regresar_ir.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\regresar_ir.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/ver_video.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\ver_video.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/servicios1.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\servicios1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/servicios2.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\servicios2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/send.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\send.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/contactenos.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\contactenos.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/ingersoll_rand.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\ingersoll_rand.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/klein_tools.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\klein_tools.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/jd_neuhaus.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\jd_neuhaus.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/ridgid.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\ridgid.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/armstrong.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\armstrong.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/proto.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\proto.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/stanley.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\stanley.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/master.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\master.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/foster.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\foster.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/jensen.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\jensen.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/ozat.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\ozat.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/greenlee.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\greenlee.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/torcup.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\torcup.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/makita.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\makita.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/bva.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\bva.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/ampco.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\ampco.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/cdi.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\cdi.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/mammut.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\mammut.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/wiha_tools.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\wiha_tools.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/wilton.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\wilton.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/jet.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\jet.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/logos/huck.gif
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\logos\huck.gif
+Content Type: image/gif
+
+Uri: https://www.mywsalas.com.pe/images/flecha-roja.png
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\flecha-roja.png
+Content Type: image/png
+
+Uri: https://www.mywsalas.com.pe/ir_automotrices.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ir_automotrices.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/ir_industriales.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ir_industriales.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/ir_tecles_winches.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ir_tecles_winches.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/ir_accesorios.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ir_accesorios.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/ir_equipos.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ir_equipos.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/ir_inalambricas.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ir_inalambricas.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/ir_torque.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\ir_torque.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/esmeril_angular_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\esmeril_angular_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/pistola_de_impacto_neumatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\pistola_de_impacto_neumatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/tecle_electrico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\tecle_electrico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/dados_de_impacto.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\dados_de_impacto.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/arrancador_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\arrancador_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/pistola_de_impacto_inalambrico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\pistola_de_impacto_inalambrico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/herramientas_inalámbricas_torque_controlado.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\herramientas_inalámbricas_torque_controlado.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/master/regulador_de_aire_con_manometro.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\master\regulador_de_aire_con_manometro.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/master/regulador_de_aire_vanguard.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\master\regulador_de_aire_vanguard.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/master/filtro_de_aire.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\master\filtro_de_aire.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/master/filtro_regulador_y_lubricador_de_aire.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\master\filtro_regulador_y_lubricador_de_aire.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/master/filtro_vanguard.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\master\filtro_vanguard.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/master/lubricador_de_aire.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\master\lubricador_de_aire.jpg
+Content Type: image/jpeg
+
+Uri: http://www.makita.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-2.htm
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/makita/amoladora_angular_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\makita\amoladora_angular_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/makita/martillo_demolicion_electrico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\makita\martillo_demolicion_electrico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/makita/linterna_inalambrica_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\makita\linterna_inalambrica_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/makita/taladro_inalambrico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\makita\taladro_inalambrico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/makita/pulidora_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\makita\pulidora_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/makita/llave_de_impacto_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\makita\llave_de_impacto_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/makita/rectificadora_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\makita\rectificadora_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/makita/sierra_circular_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\makita\sierra_circular_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/makita/taladro_percutor_electrico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\makita\taladro_percutor_electrico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=bgeXTc9Ijd8
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\watch.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/klein_tools/mochila_electricista.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\klein_tools\mochila_electricista.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/klein_tools/destornilladores_aislados_1000v.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\klein_tools\destornilladores_aislados_1000v.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/klein_tools/cuchilla_aislada_1000v.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\klein_tools\cuchilla_aislada_1000v.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/klein_tools/rana_para_tensar_cables.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\klein_tools\rana_para_tensar_cables.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/klein_tools/cortacable_tipo_ratchet.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\klein_tools\cortacable_tipo_ratchet.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/klein_tools/portaherramienta_de_cuero.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\klein_tools\portaherramienta_de_cuero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/klein_tools/alicate_electricista.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\klein_tools\alicate_electricista.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/klein_tools/bolsa_de_lona_para_herramientas.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\klein_tools\bolsa_de_lona_para_herramientas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/klein_tools/cuchillo_electricista.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\klein_tools\cuchillo_electricista.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/foster/tapon_para_manguera.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\foster\tapon_para_manguera.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/foster/valvula_para_manguera.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\foster\valvula_para_manguera.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/foster/tapon_rosca.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\foster\tapon_rosca.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/foster/pistola_de_aire.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\foster\pistola_de_aire.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/foster/acople_giratorio.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\foster\acople_giratorio.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/foster/valvula_tipo_rosca.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\foster\valvula_tipo_rosca.jpg
+Content Type: image/jpeg
+
+Uri: https://www.jdngroup.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-5.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=vNd3ruZa7Xs
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\watch-1.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/jd_neuhaus/tecles_neumaticos.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jd_neuhaus\tecles_neumaticos.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jd_neuhaus/tecle_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jd_neuhaus\tecle_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jd_neuhaus/tecle_hidraulico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jd_neuhaus\tecle_hidraulico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jd_neuhaus/trolley_motorizado.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jd_neuhaus\trolley_motorizado.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jensen/maletin_electronica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jensen\maletin_electronica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jensen/cautil_y_estacion_de_soldar.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jensen\cautil_y_estacion_de_soldar.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jensen/juego_de_destornilladores_perrilleros.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jensen\juego_de_destornilladores_perrilleros.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jensen/estuches.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jensen\estuches.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jensen/juego_de_desarmadores_hexagonales.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jensen\juego_de_desarmadores_hexagonales.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jensen/multimetro_digital.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jensen\multimetro_digital.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jensen/prensa_terminales_en_kit.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jensen\prensa_terminales_en_kit.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jensen/manta_antiestatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jensen\manta_antiestatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jensen/pinza_amperimetrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jensen\pinza_amperimetrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=6fQTBQq3eUg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\watch-2.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/ridgid/equipo_digital_inspeccion_tuberias.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ridgid\equipo_digital_inspeccion_tuberias.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ridgid/tripode_portatil.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ridgid\tripode_portatil.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ridgid/medidor_de_temperatura.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ridgid\medidor_de_temperatura.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ridgid/desatoradores_electricos.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ridgid\desatoradores_electricos.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ridgid/aspiradora_industrial_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ridgid\aspiradora_industrial_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ridgid/juego_de_tarrajas_manual.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ridgid\juego_de_tarrajas_manual.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ridgid/cortatubo_manual.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ridgid\cortatubo_manual.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ridgid/cabezal_tarraja.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ridgid\cabezal_tarraja.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ridgid/llave_de_stillson.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ridgid\llave_de_stillson.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ridgid/roscadora_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ridgid\roscadora_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/bva/bomba_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\bva\bomba_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/bva/cilindro_hidraulico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\bva\cilindro_hidraulico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/bva/pastilla_hidraulica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\bva\pastilla_hidraulica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/bva/prensa_hidraulica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\bva\prensa_hidraulica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/bva/bomba_neumatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\bva\bomba_neumatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/bva/gata_de_botella.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\bva\gata_de_botella.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/armstrong/juego_llaves_mixtas.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\armstrong\juego_llaves_mixtas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/armstrong/juego_cinceles.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\armstrong\juego_cinceles.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/armstrong/juego_desarmadores.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\armstrong\juego_desarmadores.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/armstrong/juego_dados_accesorios.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\armstrong\juego_dados_accesorios.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/armstrong/juego_dados_impacto.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\armstrong\juego_dados_impacto.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/armstrong/llave_francesa.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\armstrong\llave_francesa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ampco/comba_antichispa.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ampco\comba_antichispa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ampco/pico_antichispa.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ampco\pico_antichispa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ampco/kit_herramientas_antichispas.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ampco\kit_herramientas_antichispas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ampco/escobilla_antichispa.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ampco\escobilla_antichispa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ampco/kit_hachas_picos_combas_antichispa.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ampco\kit_hachas_picos_combas_antichispa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ampco/set_palas_herramientas_antichispa.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ampco\set_palas_herramientas_antichispa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/proto/kit_herramientas_para_electricistas.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\proto\kit_herramientas_para_electricistas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/proto/kit_herramientas_aisladas_1000v.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\proto\kit_herramientas_aisladas_1000v.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/proto/gabinete_rodante.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\proto\gabinete_rodante.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/proto/juego_llaves_mixtas_tipo_ratchet.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\proto\juego_llaves_mixtas_tipo_ratchet.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/proto/juego_de_desarmadores.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\proto\juego_de_desarmadores.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/proto/juego_de_dados_de_impacto.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\proto\juego_de_dados_de_impacto.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/proto/kit_herramientas_para_aviaciOn.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\proto\kit_herramientas_para_aviaciOn.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/proto/kit_herramientas_para_mecanicos.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\proto\kit_herramientas_para_mecanicos.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ozat.co.il/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-11.htm
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/ozat/juego_de_dados_de_impacto.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ozat\juego_de_dados_de_impacto.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ozat/extension_de_impacto.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ozat\extension_de_impacto.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ozat/llave_de_golpe.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ozat\llave_de_golpe.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ozat/dado_de_impacto_corto.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ozat\dado_de_impacto_corto.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ozat/dado_de_impacto_largo.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ozat\dado_de_impacto_largo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ozat/dado_hexagonal_de_impacto.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ozat\dado_hexagonal_de_impacto.jpg
+Content Type: image/jpeg
+
+Uri: http://www.cditorque.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-12.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=VW2XJsl1E_s
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\watch-3.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/cdi/torquimetro_digital.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\cdi\torquimetro_digital.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/cdi/torquimetro_reloj.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\cdi\torquimetro_reloj.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/cdi/torquimetro_golpe.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\cdi\torquimetro_golpe.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/cdi/multiplicador_torque.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\cdi\multiplicador_torque.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/cdi/calibrador_de_torquimetros.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\cdi\calibrador_de_torquimetros.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=Dp_UHbK67uk
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\watch-4.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/cortacable_ratchet.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\cortacable_ratchet.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/prensa_terminal_manual.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\prensa_terminal_manual.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/cizalla_inalambrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\cizalla_inalambrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/sacabocados_manual.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\sacabocados_manual.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/multimetro_digital.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\multimetro_digital.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/pinza_amperimetrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\pinza_amperimetrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/doblatubos_mecanico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\doblatubos_mecanico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/dobladora_hidraulica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\dobladora_hidraulica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/wincha_pasacable.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\wincha_pasacable.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/prensa_terminal_hidraulico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\prensa_terminal_hidraulico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/cizalla_hidraulica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\cizalla_hidraulica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/greenlee/sacabocados_hidraulico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\greenlee\sacabocados_hidraulico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/mammut/tirford_de_cable.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\mammut\tirford_de_cable.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/mammut/tecle_tipo_ratchet.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\mammut\tecle_tipo_ratchet.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/mammut/tecle_manual.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\mammut\tecle_manual.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/mammut/tecles_surtidos.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\mammut\tecles_surtidos.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/stanley/nivel_aluminio.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\stanley\nivel_aluminio.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/stanley/wincha_medicion.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\stanley\wincha_medicion.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/stanley/kit_de_destornilladores.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\stanley\kit_de_destornilladores.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/stanley/clavadora_neumatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\stanley\clavadora_neumatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/stanley/porta_cuchillos_de_cuero.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\stanley\porta_cuchillos_de_cuero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/stanley/serrucho_carpintero.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\stanley\serrucho_carpintero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/stanley/martillo_bola.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\stanley\martillo_bola.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/stanley/martillo_de_goma.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\stanley\martillo_de_goma.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/stanley/cuchillo_curvo.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\stanley\cuchillo_curvo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=vwhhXht2t-w
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\watch-5.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/torcup/tensionadores_hidraulicos.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\torcup\tensionadores_hidraulicos.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/torcup/rompe_tuercas_hidraulico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\torcup\rompe_tuercas_hidraulico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/torcup/llave_torque_inalambrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\torcup\llave_torque_inalambrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/torcup/llave_de_torque_neumatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\torcup\llave_de_torque_neumatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/torcup/llave_de_torque_hidraulica_hexagonal.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\torcup\llave_de_torque_hidraulica_hexagonal.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/torcup/equipo_de_elongacion.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\torcup\equipo_de_elongacion.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/torcup/bomba_electrica_de_torque.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\torcup\bomba_electrica_de_torque.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/torcup/llave_de_torque_hidraulica_de_encastre.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\torcup\llave_de_torque_hidraulica_de_encastre.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/torcup/ajuste_de_pernos.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\torcup\ajuste_de_pernos.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=YVKaOshbOdI
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\watch-6.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/wiha/llave_allen_aisladas_1000V.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\wiha\llave_allen_aisladas_1000V.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/wiha/destornillador_hexagonales_aislados_1000V.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\wiha\destornillador_hexagonales_aislados_1000V.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/wiha/destornilladores_aislados_1000V.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\wiha\destornilladores_aislados_1000V.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/wiha/kit_herramientas_aisladas_1000V.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\wiha\kit_herramientas_aisladas_1000V.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/wiha/juego_dados_accesorios_aislados_1000V.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\wiha\juego_dados_accesorios_aislados_1000V.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/wiha/arco_sierra_aislado_1000V.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\wiha\arco_sierra_aislado_1000V.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=aNvnAlSSCXE
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\watch-7.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/wilton/prensa_banco.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\wilton\prensa_banco.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/wilton/prensa_c.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\wilton\prensa_c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/wilton/combas_acero.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\wilton\combas_acero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/wilton/tornillo_banco.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\wilton\tornillo_banco.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=PnGe_ynWV9A
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\watch-8.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/jet/taladro_columna.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jet\taladro_columna.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jet/dobladora_tubos_hidraulico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jet\dobladora_tubos_hidraulico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jet/fresadora_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jet\fresadora_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jet/sierra_banco_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jet\sierra_banco_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/jet/cizalla_banco_electrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\jet\cizalla_banco_electrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/huck/bomba_electrica_equipos_huck.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\huck\bomba_electrica_equipos_huck.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/huck/remachadoras_hidraulicas_tipo_huck.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\huck\remachadoras_hidraulicas_tipo_huck.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/huck/remachadora_manual.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\huck\remachadora_manual.jpg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3901.6483440700085!2d-77.09939778518725!3d-12.067699091453363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c960c833e2d9:0xf47640cab1cb473f!2sM Y W Salas S A!5e0!3m2!1ses!2spe!4v1624504680674!5m2!1ses!2spe
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\maps\embed.html
+Content Type: text/html
+
+Uri: http://nserviceperu.com/index.html
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-1.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=K6o5aZSlHSs
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\watch-9.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/automotrices/esmeril_angular_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\automotrices\esmeril_angular_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/automotrices/lijadora_orbital_neumatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\automotrices\lijadora_orbital_neumatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/automotrices/sierra_neumatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\automotrices\sierra_neumatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/automotrices/escariador_de_agujas_neumatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\automotrices\escariador_de_agujas_neumatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/automotrices/ratchet_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\automotrices\ratchet_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/automotrices/rectificador_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\automotrices\rectificador_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/automotrices/pistola_de_impacto_neumatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\automotrices\pistola_de_impacto_neumatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/automotrices/taladro_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\automotrices\taladro_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/automotrices/remachadora_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\automotrices\remachadora_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/automotrices/pistola_neumatica_de_canon_largo.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\automotrices\pistola_neumatica_de_canon_largo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/automotrices/taladro_angular.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\automotrices\taladro_angular.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/industriales/esmeril_vertical_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\industriales\esmeril_vertical_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/industriales/rectificador_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\industriales\rectificador_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/industriales/taladro_angular_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\industriales\taladro_angular_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/industriales/cincelador_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\industriales\cincelador_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/industriales/llave_de_impacto_neumatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\industriales\llave_de_impacto_neumatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/industriales/atornillador_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\industriales\atornillador_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/industriales/martillo_rompe_pavimento_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\industriales\martillo_rompe_pavimento_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/industriales/pistola_de_impacto_neumatica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\industriales\pistola_de_impacto_neumatica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/industriales/aprisionador_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\industriales\aprisionador_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/tecles_wicnhes/trolley_manual.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\tecles_wicnhes\trolley_manual.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/tecles_wicnhes/tecle_de_palanca.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\tecles_wicnhes\tecle_de_palanca.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/tecles_wicnhes/teecle_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\tecles_wicnhes\teecle_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/tecles_wicnhes/winche_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\tecles_wicnhes\winche_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/tecles_wicnhes/tecle_hidraulico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\tecles_wicnhes\tecle_hidraulico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/tecles_wicnhes/tecle_manual.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\tecles_wicnhes\tecle_manual.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/tecles_wicnhes/tecle_de_cable.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\tecles_wicnhes\tecle_de_cable.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/tecles_wicnhes/tecle_electrico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\tecles_wicnhes\tecle_electrico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/accesorios/limas_rotativas.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\accesorios\limas_rotativas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/accesorios/cierra_circular.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\accesorios\cierra_circular.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/accesorios/protector_de_llave_de_impacto.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\accesorios\protector_de_llave_de_impacto.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/accesorios/guantes.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\accesorios\guantes.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/accesorios/discos_de_corte.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\accesorios\discos_de_corte.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/accesorios/lijas_circulares.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\accesorios\lijas_circulares.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/accesorios/puntas_para_atornillador.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\accesorios\puntas_para_atornillador.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/accesorios/balanceador_manual.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\accesorios\balanceador_manual.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/accesorios/dados_de_impacto.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\accesorios\dados_de_impacto.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/equipos/motor_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\equipos\motor_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/equipos/arrancador_mecanico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\equipos\arrancador_mecanico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/equipos/arrancador_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\equipos\arrancador_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/equipos/balanceador_de_rieles.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\equipos\balanceador_de_rieles.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/equipos/balanceador_neumatico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\equipos\balanceador_neumatico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/equipos/arrancador_de_motores.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\equipos\arrancador_de_motores.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/inalambricas/herramientas_inalámbricas_torque_controlado.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\inalambricas\herramientas_inalámbricas_torque_controlado.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/inalambricas/llave_impacto_inalambrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\inalambricas\llave_impacto_inalambrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/inalambricas/linterna_inalambrica.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\inalambricas\linterna_inalambrica.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/inalambricas/kit_llave_de_impacto_inalambrico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\inalambricas\kit_llave_de_impacto_inalambrico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/inalambricas/pistola_de_impacto_inalambrico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\inalambricas\pistola_de_impacto_inalambrico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/inalambricas/taladro_inalambrico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\inalambricas\taladro_inalambrico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/inalambricas/rectificador_inalambrico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\inalambricas\rectificador_inalambrico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/inalambricas/esmeril_inalambrico.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\inalambricas\esmeril_inalambrico.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=dF4buzcQEGE
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\watch-10.html
+Content Type: text/html
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/torque/herramientas_inalámbricas_torque_controlado_01.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\torque\herramientas_inalámbricas_torque_controlado_01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/torque/herramientas_inalámbricas_torque_controlado_02.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\torque\herramientas_inalámbricas_torque_controlado_02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/torque/herramientas_inalámbricas_torque_controlado_03.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\torque\herramientas_inalámbricas_torque_controlado_03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/torque/herramientas_inalámbricas_torque_controlado_04.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\torque\herramientas_inalámbricas_torque_controlado_04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mywsalas.com.pe/images/productos/ingersoll_rand/torque/herramientas_inalámbricas_torque_controlado_05.jpg
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\images\productos\ingersoll_rand\torque\herramientas_inalámbricas_torque_controlado_05.jpg
+Content Type: image/jpeg
+
+Uri: https://www.masterpneumatic.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-1.htm
+Content Type: text/html
+
+Uri: https://www.kleintools.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-3.htm
+Content Type: text/html
+
+Uri: https://www.zsi-foster.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-4.htm
+Content Type: text/html
+
+Uri: https://www.jensentools.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-6.htm
+Content Type: text/html
+
+Uri: https://www.ridgid.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-7.htm
+Content Type: text/html
+
+Uri: http://www.bvahydraulics.com/?AspxAutoDetectCookieSupport=1
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-8.htm
+Content Type: text/html
+
+Uri: https://www.armstrongtools.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-9.htm
+Content Type: text/html
+
+Uri: https://www.ampcosafetytools.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-10.htm
+Content Type: text/html
+
+Uri: https://www.protoindustrial.com/en/Pages/Default.aspx
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\en\Pages\Default.aspx.html
+Content Type: text/html
+
+Uri: https://www.greenlee.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-13.htm
+Content Type: text/html
+
+Uri: https://www.stanleyworks.es/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-14.htm
+Content Type: text/html
+
+Uri: https://www.torcup.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-15.htm
+Content Type: text/html
+
+Uri: https://www.wihatools.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-16.htm
+Content Type: text/html
+
+Uri: https://wiltontools.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-17.htm
+Content Type: text/html
+
+Uri: https://jettools.com/
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\index-18.htm
+Content Type: text/html
+
+Uri: https://www.ingersollrand.com/es-pe
+File Name: C:\Users\Diseño\Desktop\WEB RIDGID\www.mywsalas.com.pe\es-pe.html
+Content Type: text/html
+
